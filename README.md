@@ -8,17 +8,17 @@ https://mikaelcm.github.io/secret_word/
 
 ## Funcionalidades
 
-<li> Interface simples e responsiva. </li>
+- Interface simples e responsiva.
 
-<li> Sistema de pontuação. </li>
+- Sistema de pontuação.
 
-<li> Exibição de dica para cada categoria de palavra. </li>
+- Exibição de dica para cada categoria de palavra.
 
-<li> Controle de tentativas restantes. </li>
+- Controle de tentativas restantes.
 
-<li> Indicação de letras já utilizadas. </li>
+- Indicação de letras já utilizadas.
 
-<li> Tela de início, jogo e fim com pontuação final. </li>
+- Tela de início, jogo e fim com pontuação final.
 
 ## Estrutura do Projeto
 src/
@@ -36,11 +36,11 @@ src/
 
 ## Tecnologias Utilizadas
 
-<li> React.js </li>
+- React.js
 
-<li> CSS3 (modularizado por componente) </li>
+- CSS3 (modularizado por componente)
 
-<li> JavaScript (ES6+) </li>
+- JavaScript (ES6+)
 
 ## Como jogar
 
